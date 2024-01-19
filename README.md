@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 
 ## How to use this learning project?
 
