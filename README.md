@@ -1,5 +1,5 @@
 
-## How to use this learning project?
+## How to use this learning react project?
 
 -   fork
 -   clone to your local machine
